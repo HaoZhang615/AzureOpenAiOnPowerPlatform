@@ -11,7 +11,7 @@ Now, let's see it in action:
 
 1. [Application Demo](https://www.youtube.com/watch?v=fz2B-McXpRk&lc=UgzJ31kZwzj4lPl_NUV4AaABAg)
 
-
+2. [Installation Demo](youtubeplaceholder)
 ## Architecture
 
 ![Alt text](Images/architecture.png)
